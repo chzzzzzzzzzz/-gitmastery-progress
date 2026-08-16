@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786889826.107068,
+    "completed_at": 1786889827.913147,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786889753.180077,
+    "completed_at": 1786889754.896952,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
