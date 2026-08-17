@@ -36,24 +36,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "branch-previous",
-    "started_at": 1786975634.10125,
-    "completed_at": 1786975638.177347,
-    "comments": [
-      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1786987596.679371,
-    "completed_at": 1786987599.77892,
-    "comments": [
-      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "branch-rename",
     "started_at": 1786985360.919876,
     "completed_at": 1786985362.407681,
@@ -383,14 +365,5 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1786988232.533874,
-    "completed_at": 1786988235.767336,
-    "comments": [
-      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
   }
 ]
